@@ -1,6 +1,6 @@
-# Over-the-top FizzBuzzes
+# FizzBuzz gone wrong
 
-**Most people know Fizz buzz as a group word game designed to teach children about division (or drinking game). Many programmers are also quite familiar with Fizz buzz (also spelled FizzBuzz) in the form of a trivial programming problem, as it is often used as a job interview screening device to weed out (really (really (really))) (really) bad applicants. This repository contains a small collection of over-the-top FizzBuzzes for various programming languages.**
+**Most people know Fizz buzz as a group word game designed to teach children about division (or drinking game). Many programmers are also quite familiar with Fizz buzz (also spelled FizzBuzz) in the form of a trivial programming problem, as it is often used as a job interview screening device to weed out (really (really (really))) (really) bad applicants. This repository contains a small collection of awful implementations of FizzBuzz for various programming languages.**
 
 _“A FizzBuzz a day keeps the doctor away”_.
 

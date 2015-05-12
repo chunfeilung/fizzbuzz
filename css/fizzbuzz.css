@@ -1,0 +1,19 @@
+li {
+    list-style-position: inside;
+}
+
+li::before {
+    content: counter();
+}
+
+li:nth-child(3n), li:nth-child(5n) {
+    list-style: none;
+}
+
+li:nth-child(3n)::before {
+    content: 'Fizz';
+}
+
+li:nth-child(5n)::after {
+    content: 'Buzz';
+}
